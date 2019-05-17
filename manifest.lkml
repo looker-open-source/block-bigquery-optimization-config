@@ -1,4 +1,4 @@
-project_name: "block-gcp-optimization-config"
+project_name: "block-bigquery-optimization-config"
 
 constant: CONNECTION_NAME {
   value: "looker_app"

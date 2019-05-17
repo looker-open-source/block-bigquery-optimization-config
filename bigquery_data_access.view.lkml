@@ -1,4 +1,4 @@
-include: "//block-gcp-optimization/bigquery_data_access_core.view.lkml"
+include: "//block-bigquery-optimization/bigquery_data_access_core.view.lkml"
 
 view: bigquery_data_access {
   extends: [bigquery_data_access_core]
