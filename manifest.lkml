@@ -14,5 +14,5 @@ constant: AUDIT_LOG_EXPORT_TABLE_NAME {
 }
 
 local_dependency: {
-  project: "block-gcp-optimization"
+  project: "block-bigquery-optimization"
 }
